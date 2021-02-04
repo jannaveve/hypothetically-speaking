@@ -51,7 +51,7 @@ function draw() {
 function markovIt() {
   x =100;
   y =100,
-  lines = (" ",markov.generate(7));
+  lines = (" ",markov.generate(9));
   savedTime = millis();
 
   
